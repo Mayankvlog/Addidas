@@ -15,4 +15,3 @@ This dataset is instrumental for analyzing Adidas's sales trends, profitability,
 
 
 
-
